@@ -1,0 +1,26 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">João Pedro Figueira Garcia</title>
+  <desc id="desc">Portfólio profissional com destaque para desenvolvimento full stack, liderança técnica e produtos digitais.</desc>
+  <rect width="1200" height="630" rx="48" fill="#0D1623"/>
+  <rect x="48" y="48" width="1104" height="534" rx="36" fill="url(#paint0_linear)" stroke="rgba(196,241,255,0.22)"/>
+  <circle cx="1010" cy="120" r="164" fill="#7CC8FF" fill-opacity="0.18"/>
+  <circle cx="145" cy="505" r="160" fill="#C4F1FF" fill-opacity="0.14"/>
+  <text x="88" y="174" fill="#C4F1FF" font-size="24" font-family="Space Grotesk, Arial, sans-serif" letter-spacing="4">PORTFÓLIO PROFISSIONAL</text>
+  <text x="88" y="258" fill="#E5EEFB" font-size="68" font-weight="700" font-family="Space Grotesk, Arial, sans-serif">João Pedro</text>
+  <text x="88" y="330" fill="#E5EEFB" font-size="68" font-weight="700" font-family="Space Grotesk, Arial, sans-serif">Figueira Garcia</text>
+  <text x="88" y="400" fill="#B5C3D6" font-size="30" font-family="Source Sans 3, Arial, sans-serif">Desenvolvedor Full Stack | Gestor de TI | Liderança Técnica</text>
+  <g transform="translate(88 458)">
+    <rect width="170" height="48" rx="16" fill="#7CC8FF" fill-opacity="0.14" stroke="rgba(196,241,255,0.3)"/>
+    <text x="24" y="31" fill="#E5EEFB" font-size="22" font-family="Source Sans 3, Arial, sans-serif">Santarém - PA</text>
+  </g>
+  <g transform="translate(286 458)">
+    <rect width="190" height="48" rx="16" fill="#7CC8FF" fill-opacity="0.14" stroke="rgba(196,241,255,0.3)"/>
+    <text x="24" y="31" fill="#E5EEFB" font-size="22" font-family="Source Sans 3, Arial, sans-serif">+10 anos de experiência</text>
+  </g>
+  <defs>
+    <linearGradient id="paint0_linear" x1="48" y1="48" x2="1104" y2="582" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#111D2C"/>
+      <stop offset="1" stop-color="#0D1623"/>
+    </linearGradient>
+  </defs>
+</svg>
